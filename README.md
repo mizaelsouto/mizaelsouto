@@ -52,7 +52,7 @@ Atuo como **Consultor Cloud Computing / Data Center Virtual** na **Uppertec**, o
 | :--- | :--- | :--- |
 | 🤖 **[kaminho](https://github.com/mizaelsouto/kaminho)** | IA & Engenharia Agêntica | Ecossistema e indexador de dezenas de Agentes Especialistas e milhares de Skills (`SKILL.md`). |
 | 🔐 **[Criptografia_GPG](https://github.com/mizaelsouto/Criptografia_GPG)** | Cibersegurança | Fundamentos de Segurança da Informação e práticas avançadas de criptografia com GPG. |
-| ⚙️ **[Remapeamento-Diretorios-Windows](https://github.com/mizaelsouto/Remapemanto-Diretorios-Windows)** | Infra & Automação | Automação em PowerShell para Windows 10/11 que redireciona diretórios de usuário para unidades secundárias. |
+| ⚙️ **[Remapeamento-Diretorios-Windows](https://github.com/mizaelsouto/Remapeamento-Diretorios-Windows)** | Infra & Automação | Automação em PowerShell para Windows 10/11 que redireciona diretórios de usuário para unidades secundárias. |
 | 🛡️ **[Desafio-Medusa-Kali-Linux](https://github.com/mizaelsouto/Desafio-Medusa-Kali-Linux)** | AppSec / Red Team Lab | Laboratório prático de auditoria de força bruta de senhas com Medusa e Kali Linux. |
 | 🎓 **[CursoTecnico](https://github.com/mizaelsouto/CursoTecnico)** | Educação Tecnológica | Repositório central de aulas práticas, laboratórios e exercícios para formação técnica. |
 | 🎲 **[sorteador](https://github.com/mizaelsouto/sorteador)** | Web / JavaScript | Aplicação web interativa de sorteios (39+ ⭐ e 37+ forks na comunidade). |
